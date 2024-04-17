@@ -1,5 +1,10 @@
 # Task Manager Application
 
+<div align="center">
+    <img src="https://github.com/stav102/Task-Manager/assets/141845252/5951b27c-5c1b-499a-bc9d-7da63aceed75" width="300" height="400">
+</div>
+
+
 ## 🌟 Introduction
 Welcome to the Task Manager Application! This full-stack web application solution managing and tracking tasks efficiently. Built with React for the frontend, FASTAPI for the backend, and MongoDB for the database, it offers a streamlined interface for task creation, visualization, and management.
 
