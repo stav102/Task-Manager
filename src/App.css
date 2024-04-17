@@ -8,3 +8,13 @@
 html {
   font-size: 3vh;
 }
+@media screen and (max-width: 1000px) {
+  .App {
+    height: auto;
+    max-height: 100vh;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
